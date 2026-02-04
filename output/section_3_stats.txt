@@ -1,3 +1,3 @@
-vocab_richness: 0.39280359820089955
-avg_sentence_length: 13.207920792079207
-avg_word_length: 4.084707646176912
+vocab_richness: 0.35355029585798814
+avg_sentence_length: 13.386138613861386
+avg_word_length: 3.93491124260355

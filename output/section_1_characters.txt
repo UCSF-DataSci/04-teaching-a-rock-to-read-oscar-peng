@@ -1,11 +1,9 @@
-Albert
-Duncan Ross
-Freemason
 Holmes
-Jabez Wilson
-Mary Sutherland
-Sherlock Holmes
 Watson
 Wilson
-baggy grey
-obese
+Jabez Wilson
+Sherlock Holmes
+Mary Sutherland
+Albert
+Freemason
+Duncan Ross

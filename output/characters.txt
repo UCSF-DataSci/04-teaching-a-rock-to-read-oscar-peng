@@ -3,8 +3,6 @@ Armour
 Duncan Ross
 Freemason
 Holmes
-I. ‘
-I. “‘
 I. “‘Oh
 I. “‘Well
 Jabez Wilson
@@ -13,5 +11,3 @@ Sherlock Holmes
 Vincent Spaulding
 Watson
 Wilson
-baggy grey
-obese
